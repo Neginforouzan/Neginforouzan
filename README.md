@@ -28,11 +28,11 @@ In addition to my technical expertise, I am also a passionate musician. I play b
 
 ## 📫 **Get in Touch**
 - **GitHub**:
-  [http://github.com/neginforouzan]
-- **LinkedIn**
-  [http://linkedin.com/in/negin-f-808446110]
+- [http://github.com/neginforouzan]
+- **LinkedIn**:
+- [http://linkedin.com/in/negin-f-808446110]
 - **Email**:
-  [neginforouzan80@gmail.com]
+- [neginforouzan80@gmail.com]
 
 ## ✨ **Fun Fact**
 I find inspiration in both the precision of engineering and the creativity of music, which allows me to approach challenges from a unique and holistic 
