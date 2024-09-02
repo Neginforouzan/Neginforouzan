@@ -1,4 +1,4 @@
-# Hi, I'm [@Neginforouzan] 👋
+# Hi, I'm Negin Forouzan 👋
 
 I’m an **Electrical Engineer** with a Bachelor's degree from **Shahid Beheshti University**, where I graduated as one of the top students in my class, ranked **5th** among all Electrical Engineering students. My academic journey has been a blend of technical excellence, teaching experience, and hands-on research, combined with a passion for music.
 
