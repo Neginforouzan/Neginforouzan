@@ -27,9 +27,12 @@ In addition to my technical expertise, I am also a passionate musician. I play b
 - Continuing research in **signal processing**, **image processing**,and **machine learning and deep learning**, specially with the focus on **disease detection** to further my expertise in electrical and biomedical engineering.
 
 ## 📫 **Get in Touch**
-- **GitHub**: [http://github.com/neginforouzan]
-- **LinkedIn**: [http://linkedin.com/in/negin-f-808446110]
-- **Email**: [neginforouzan80@gmail.com]
+- **GitHub**:
+  [http://github.com/neginforouzan]
+- **LinkedIn**
+  [http://linkedin.com/in/negin-f-808446110]
+- **Email**:
+  [neginforouzan80@gmail.com]
 
 ## ✨ **Fun Fact**
 I find inspiration in both the precision of engineering and the creativity of music, which allows me to approach challenges from a unique and holistic 
